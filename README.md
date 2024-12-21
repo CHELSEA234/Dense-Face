@@ -27,11 +27,7 @@ The quick view on the code structure:
     │      ├── mask (face region mask)
     │      ├── output (output generated samples)
     │      └── ...
-    ├── test_samples (we offer 25 test samples)
-    └── train_log_webface
-           ├── events.out.tfevents.1711259117.cvl10.3064075.0 (tensboard log)
-           ├── Train_log_0.png (train log screenshot; time-wise)
-           └── Train_log_1.png (train log screenshot; epoch-wise)
+    └──  test_samples (we offer 25 test samples)
 ```
 
 ### Preparation
@@ -66,8 +62,3 @@ The quick view on the code structure:
  ```
 - It uses the reference image arcface feature (`inference_code/reference_id`) to inpaint the face region of `inference_code/ropped_face/`.
 - The results are dumped into `inference_code/output`
-
-### WebFace Training.
-- To prepare for the rebuttal, we train Dense-Face on the webface in advance. Please refer to the `train_log_webface`
-- `Train_log_0.png` and `Train_log_1.png` denote our training timeframe and epoch number. 
-- The tensorboard can be seen by `tensorboard --logdir train_log_webface`.
