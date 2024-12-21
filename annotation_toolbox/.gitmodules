@@ -1,0 +1,3 @@
+[submodule "CodeFormer"]
+	path = CodeFormer
+	url = https://github.com/sczhou/CodeFormer.git

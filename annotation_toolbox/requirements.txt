@@ -1,0 +1,12 @@
+tensorflow
+scipy
+opencv-python
+tqdm
+matplotlib
+mediapipe
+basicsr
+facexlib
+realesrgan
+pandas
+Pyarrow
+imageio-ffmpeg
