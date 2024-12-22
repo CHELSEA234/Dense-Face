@@ -31,7 +31,7 @@ The quick view on the code structure:
 - Download weights via [link](https://drive.google.com/drive/folders/1b-sNLdfvDkFlm78QnMg2-po-R2G1CNbo), and put them in `inference_code/ckpt`
 - These three weights are used for text-edting mode (\*.safetensors), face generation mode (epoch*.ckpt), and training from scratch (\*init.ckpt). 
 #### Dataset:
-- Download `CASIA_tiny` via [link](https://drive.google.com/drive/folders/1lgjpwneqjhI8ig8cPfUU_zRh9HXPEJ8m?usp=sharing), and put them in `CASIA_tiny`. This is important to run face generation mode.
+- Download `CASIA_tiny` via [link](https://drive.google.com/file/d/1Nr8xwErb8CJc-vnVWj9-hXt260hbk-ce/view?usp=sharing), and put them in `CASIA_tiny`. This is important to run face generation mode.
 - If you want to see 5%~10% of the proposed dataset, please go to `CASIA_small`.
 - If you want to see the image quality, please go to `CASIA_full` and then check `Image_GFPGAN.tar.gz` or `Image_CodeFromer.tar.gz` for your reference. 
 - We offer `dataset_usage/readCelebAFacesDataset.ipynb` for your reference. `readCASIAFacesDataset.ipynb` will be released based upon acceptance.
