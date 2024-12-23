@@ -10,7 +10,7 @@ This repo is the implementation of "Dense-Face: Personalized Face Generation Mod
   conda env create -f Dense-Face.yml
   ```
   or mannually install `pytorch=1.12.1` and `torchvision=0.13.1` in `python 3.8`.
-- Go to [link](https://drive.google.com/drive/folders/124B-OG7kK3S5UkJ6xnFJwGEvzfQlM-w0?usp=drive_link) to download the weights from, and then put them in `inference_code/ckpt`.
+- Go to [link](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing) to download the weights from, and then put them in `inference_code/ckpt`.
 - To visualize the results in 
   ```
   cd ./inference_code
@@ -21,14 +21,16 @@ This repo is the implementation of "Dense-Face: Personalized Face Generation Mod
 
 ### Detailed Instruction
 
+![Teaser](./teaser/figure2.png)
+
 #### Pre-trained Weights
-- Download three weights via [link](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing), and put them in `inference_code/ckpt`
+- Download three weights via [link](https://drive.google.com/drive/folders/1bJ54h35VxaMWg25UVhLW6D82weKl8zNI?usp=drive_link), and put them in `inference_code/ckpt`
 - These three weights are used for text-edting mode (\*.safetensors), face generation mode (epoch*.ckpt), and training from scratch (\*init.ckpt). 
 
 #### T2I-Dense-Face:
 - T2I-Dense-Face contains face images from CASIA and CelebA, and we release the section of CASIA.
 - Download `CASIA_tiny` via [link](https://drive.google.com/file/d/1Nr8xwErb8CJc-vnVWj9-hXt260hbk-ce/view?usp=sharing), and put them in `CASIA_tiny`. This is important to run face generation mode.
-- If you want to see 5%~10% of the proposed dataset, please go to `CASIA_small`, and the download link to `CASIA_full` can be obtained via sending email to guoxia11@msu.edu. 
+- If you want to see 5%~10% of the proposed dataset, please go to `CASIA_small` ([link](https://drive.google.com/drive/folders/1AwMiekWqeQryz-sDlNjQkGCTua7rVspE?usp=sharing)), and the download link to `CASIA_full` can be obtained via sending email to guoxia11@msu.edu. 
 - We offer `dataset_usage/readCelebAFacesDataset.ipynb` to help you understand the dataset.
 
 #### step 1: Dense-Face's text-editing mode.
