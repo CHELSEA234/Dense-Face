@@ -12,4 +12,4 @@ CUDA_VISIBLE_DEVICES=$CUDA_NUM python inference.py \
                                     --max_steps 1e9 \
                         		    --delta 1e-2 \
                         		    --opt_embed \
-                                    --sample_num 10
+                                    --sample_num 1

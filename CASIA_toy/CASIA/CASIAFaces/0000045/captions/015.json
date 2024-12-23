@@ -1,0 +1,30 @@
+{
+ "a man with a shirt on": {
+  "model": "blip-base",
+  "CLIP_score": 0.24354692459106445
+ },
+ "arafed asian man with a black hair and a white shirt": {
+  "model": "blip-large",
+  "CLIP_score": 0.29926654815673825
+ },
+ "bruce lee in the movie 'the green hornet'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.29096284866333005
+ },
+ "bruce lee in the tiger slayer": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.31094228744506835
+ },
+ "##0 ] as [ unused0 ] in enter the dragon. enter the dragon, enter the dragon, enter the dragon, enter the dragon, enter the dragon, enter the dragon, enter the": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.3036005783081055
+ },
+ "A man with a beard and a tie.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.18141986846923827
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.179890193939209
+ }
+}

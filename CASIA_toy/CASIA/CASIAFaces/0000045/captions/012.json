@@ -1,0 +1,30 @@
+{
+ "a man with a black hair": {
+  "model": "blip-base",
+  "CLIP_score": 0.263189754486084
+ },
+ "arafed asian man with black hair and a red face": {
+  "model": "blip-large",
+  "CLIP_score": 0.30183202743530274
+ },
+ "bruce lee in the movie 'the green hornet'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.27618349075317383
+ },
+ "bruce lee - kung fu - tv series": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.2973478698730469
+ },
+ "[ unused0 ] in the movie ` ` enter the dragon''": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.32214954376220706
+ },
+ "A man with a red face and a red shirt.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.26923439025878904
+ },
+ "a man with a red and white striped tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.18435907363891602
+ }
+}

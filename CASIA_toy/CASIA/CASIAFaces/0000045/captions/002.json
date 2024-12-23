@@ -1,0 +1,30 @@
+{
+ "a man with a tie and a suit": {
+  "model": "blip-base",
+  "CLIP_score": 0.202685546875
+ },
+ "there is a man in a black shirt and tie looking at something": {
+  "model": "blip-large",
+  "CLIP_score": 0.21329202651977539
+ },
+ "bruce lee in the movie 'the green hornet'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.2855202293395996
+ },
+ "bruce lee in 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.2909208869934082
+ },
+ "[ unused0 ] in the kung fu movie": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.2810246086120605
+ },
+ "A man with a beard and a tie.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.19312112808227538
+ },
+ "a man in a suit and tie looking at something": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.20997613906860352
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "a man with a yellow shirt and black hat": {
+  "model": "blip-base",
+  "CLIP_score": 0.24710556030273437
+ },
+ "there is a man with a banana on his shoulder smiling": {
+  "model": "blip-large",
+  "CLIP_score": 0.21824604034423828
+ },
+ "bruce lee in the movie 'the dragon'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.3163698387145996
+ },
+ "bruce lee in 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.3160540771484375
+ },
+ "[ unused0 ] in the movie'the fist of the dragon '": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.29561868667602537
+ },
+ "A man wearing sunglasses and a hat with a yellow scarf.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.22533683776855468
+ },
+ "a man with a yellow vest and sunglasses": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.1984918975830078
+ }
+}

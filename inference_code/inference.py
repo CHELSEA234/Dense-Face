@@ -136,7 +136,7 @@ if __name__ == "__main__":
     
     # data; a placeholder to the blending process and obtaining the latent space feature.
     dataset = MyDatasetFace(dataset='CASIA',
-                            data_dir="../CASIA_tiny/",
+                            data_dir="../CASIA_toy/",
                             keep_prompt=False,
                             csv_name=f"casiaFacesDataset256_{opt.sample_num}_samples_headpose.csv",
                             interval=10e6,

@@ -1,0 +1,30 @@
+{
+ "a man in a black shirt": {
+  "model": "blip-base",
+  "CLIP_score": 0.2109115219116211
+ },
+ "there are two men in masks and hats standing next to each other": {
+  "model": "blip-large",
+  "CLIP_score": 0.29720577239990237
+ },
+ "two men wearing masks and hats": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.3008590888977051
+ },
+ "two men in masks and hats are standing next to each other": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.3010566520690918
+ },
+ "the mask of the [ unused0 ]": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.25706588745117187
+ },
+ "A man wearing a helmet and a hat.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.2511487579345703
+ },
+ "a man wearing a helmet and a hat": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.24495033264160157
+ }
+}

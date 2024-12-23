@@ -1,0 +1,30 @@
+{
+ "a man with a black hairdol": {
+  "model": "blip-base",
+  "CLIP_score": 0.26736915588378907
+ },
+ "arafed man with a black wig and a white shirt": {
+  "model": "blip-large",
+  "CLIP_score": 0.2816736602783203
+ },
+ "bruce lee in the movie 'the green hornet'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.3043505859375
+ },
+ "bruce lee in the movie 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.32797122955322267
+ },
+ "[ unused0 ] as [ unused0 ] in the bruce lee enter the dragon, [ unused0 ], [ unused0 ], [ unused0 ], [ unused0 ], [": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.33658618927001954
+ },
+ "A man with a beard and a tie.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.1851123809814453
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.1840250587463379
+ }
+}

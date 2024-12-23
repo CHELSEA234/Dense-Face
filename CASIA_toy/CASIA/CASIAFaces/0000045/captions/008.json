@@ -1,0 +1,30 @@
+{
+ "a man with a cell in his hand": {
+  "model": "blip-base",
+  "CLIP_score": 0.2254012107849121
+ },
+ "arafed man in a striped shirt holding a baby in his arms": {
+  "model": "blip-large",
+  "CLIP_score": 0.22749435424804687
+ },
+ "a young man with short hair and a striped shirt": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.29781309127807615
+ },
+ "a man in a striped shirt smiling": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.28576055526733396
+ },
+ "[ unused0 ] in a striped shirt.": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.2466786575317383
+ },
+ "A man with a tie and a shirt on.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.24524856567382813
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.21590728759765626
+ }
+}

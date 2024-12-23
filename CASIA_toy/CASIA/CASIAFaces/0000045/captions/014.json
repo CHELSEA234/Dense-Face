@@ -1,0 +1,30 @@
+{
+ "a man wearing a hat and sunglasses": {
+  "model": "blip-base",
+  "CLIP_score": 0.3000081253051758
+ },
+ "there is a man wearing a hat and sunglasses with a scarf": {
+  "model": "blip-large",
+  "CLIP_score": 0.2753634071350098
+ },
+ "a man wearing sunglasses and a hat": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.30152076721191406
+ },
+ "a man in a hat and sunglasses is looking out of the window": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.3062563323974609
+ },
+ "a man wearing a hat and sunglasses.": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.30477640151977536
+ },
+ "A man wearing sunglasses and a hat with a hat on.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.29980972290039065
+ },
+ "a man wearing a helmet and sunglasses": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.3015874671936035
+ }
+}

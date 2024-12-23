@@ -1,0 +1,30 @@
+{
+ "a man with a green wig and a pink shirt": {
+  "model": "blip-base",
+  "CLIP_score": 0.29059864044189454
+ },
+ "arafed man with a green wig and a tie looks up": {
+  "model": "blip-large",
+  "CLIP_score": 0.23365108489990236
+ },
+ "bruce lee in the movie the big boss": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.30732770919799807
+ },
+ "bruce lee in the tv series 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.3159248542785644
+ },
+ "[ unused0 ] in the karate kid ( 1984 )": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.2232973861694336
+ },
+ "A man with a beard and a green shirt.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.2484474754333496
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.20172231674194335
+ }
+}

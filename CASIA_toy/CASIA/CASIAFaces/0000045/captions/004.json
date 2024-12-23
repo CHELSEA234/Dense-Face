@@ -1,0 +1,30 @@
+{
+ "a man with a hat on": {
+  "model": "blip-base",
+  "CLIP_score": 0.19891946792602538
+ },
+ "there is a man with a hat on smiling and holding his hair": {
+  "model": "blip-large",
+  "CLIP_score": 0.2125782585144043
+ },
+ "bruce lee in the movie 'the green hornet'": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.29724395751953125
+ },
+ "bruce lee in the tiger's shadow": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.3313885116577148
+ },
+ "[ unused0 ] in the movie ` ` enter the dragon''": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.3236255645751953
+ },
+ "A woman with a smile on her face holding a cell phone.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.20012081146240235
+ },
+ "a man with a beard and glasses": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.15026368141174318
+ }
+}

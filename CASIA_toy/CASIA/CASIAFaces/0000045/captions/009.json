@@ -1,0 +1,26 @@
+{
+ "a man in a suit and tie posing for a picture": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.26075660705566406
+ },
+ "arafed asian man in a suit and tie posing for a picture": {
+  "model": "blip-large",
+  "CLIP_score": 0.3057667541503906
+ },
+ "a young asian man in a suit and tie": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.3180274963378906
+ },
+ "a man in a suit and tie posing for a photo": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.26075044631958005
+ },
+ "a portrait of martial artist in a suit.": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.2971283721923828
+ },
+ "A man in a suit and tie posing for a picture.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.26140625
+ }
+}

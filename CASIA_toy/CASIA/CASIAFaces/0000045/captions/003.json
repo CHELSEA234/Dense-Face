@@ -1,0 +1,30 @@
+{
+ "a man with a black hair and a white shirt": {
+  "model": "blip-base",
+  "CLIP_score": 0.2604682159423828
+ },
+ "arafed image of a man with a black haircut and piercings": {
+  "model": "blip-large",
+  "CLIP_score": 0.2462635040283203
+ },
+ "bruce lee in the movie the green hornet": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.3160544967651367
+ },
+ "bruce lee in the film 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.35828121185302736
+ },
+ "[ unused0 ] in the man from the dragon.": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.2881331062316895
+ },
+ "A man with a beard and a tie.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.19003986358642577
+ },
+ "a man with a tattoo on his arm": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.2046573829650879
+ }
+}

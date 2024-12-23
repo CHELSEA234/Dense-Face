@@ -1,0 +1,30 @@
+{
+ "a man with a black and white face": {
+  "model": "blip-base",
+  "CLIP_score": 0.2698748016357422
+ },
+ "arafed image of a man with a black shirt and a tie": {
+  "model": "blip-large",
+  "CLIP_score": 0.2137290382385254
+ },
+ "bruce lee in the movie the green hornet": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.31975980758666994
+ },
+ "bruce lee in the movie 'the king of fighters'": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.33355323791503905
+ },
+ "a portrait of martial artist in black and white.": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.3055513572692871
+ },
+ "A woman with a black and white photo of her face.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.23962940216064454
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.1671021270751953
+ }
+}

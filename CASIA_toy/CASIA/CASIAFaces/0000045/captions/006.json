@@ -1,0 +1,30 @@
+{
+ "a man with a tie and a suit": {
+  "model": "blip-base",
+  "CLIP_score": 0.23587339401245117
+ },
+ "arafed man in a white shirt and tie looking at the camera": {
+  "model": "blip-large",
+  "CLIP_score": 0.2616875457763672
+ },
+ "a man in a tuxedo and bow tie": {
+  "model": "blip2-2.7b",
+  "CLIP_score": 0.23782445907592772
+ },
+ "a man in a white suit and bow tie": {
+  "model": "blip2-flan-t5-xl",
+  "CLIP_score": 0.2505830764770508
+ },
+ "a close up of a man with a black hair": {
+  "model": "git-large-coco",
+  "CLIP_score": 0.27961355209350586
+ },
+ "A man in a suit and tie posing for a picture.": {
+  "model": "vit-swin",
+  "CLIP_score": 0.22907438278198242
+ },
+ "a man with a beard and a tie": {
+  "model": "vit-gpt2",
+  "CLIP_score": 0.22162694931030275
+ }
+}
