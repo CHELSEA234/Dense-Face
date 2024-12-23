@@ -1,7 +1,7 @@
 ## Dense annotation scheme
 Basis usages of T2I-Dense-Face, which contains face images from CASIA and CelebA.
 
-### Reference
+<!-- ### Reference
 If you think our work is helpful, please cite:
 ```Bibtex
 @inproceedings{hifi_net_xiaoguo,
@@ -10,4 +10,4 @@ If you think our work is helpful, please cite:
   booktitle = { CVPR },
   year = { 2023 },
 }
-```
+``` -->

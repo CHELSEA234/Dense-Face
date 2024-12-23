@@ -1,5 +1,5 @@
 ## Dense-face
-This repo is the implementation of "Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction". [ArXiv](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing)
+This repo is the implementation of "Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction". [ArXiv](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing) and [project page](https://chelsea234.github.io/Dense-Face.github.io/).
 
 ![Teaser](./teaser/figure1.png)
 
@@ -79,7 +79,7 @@ The quick view on the code structure:
     └── test_samples (we offer 25 test samples)
 ```
 
-### Reference
+<!-- ### Reference
 If you think our work is helpful, please cite:
 ```Bibtex
 @inproceedings{hifi_net_xiaoguo,
@@ -88,4 +88,4 @@ If you think our work is helpful, please cite:
   booktitle = { CVPR },
   year = { 2023 },
 }
-```
+``` -->

@@ -21,7 +21,7 @@ We use the mediapipe to generate dense annotation for the T2I-Dense-Face dataset
   ```
 - Check out `./dense_annotation_demo.ipynb`. 
 
-### Reference
+<!-- ### Reference
 If you think our work is helpful, please cite:
 ```Bibtex
 @inproceedings{hifi_net_xiaoguo,
@@ -30,4 +30,4 @@ If you think our work is helpful, please cite:
   booktitle = { CVPR },
   year = { 2023 },
 }
-```
+``` -->
