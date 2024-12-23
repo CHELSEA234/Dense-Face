@@ -1,5 +1,5 @@
 source ~/.bashrc
-conda activate control
+conda activate Dense-Face
 CUDA_NUM="1"
 CUDA_VISIBLE_DEVICES=$CUDA_NUM python inference.py \
 				                    --partition 0 --base configs/v1-finetune-arcface-control-Xatt.yaml \
