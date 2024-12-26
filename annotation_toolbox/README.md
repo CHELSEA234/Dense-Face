@@ -21,13 +21,13 @@ We use the mediapipe to generate dense annotation for the T2I-Dense-Face dataset
   ```
 - Check out `./dense_annotation_demo.ipynb`. 
 
-<!-- ### Reference
+### Reference
 If you think our work is helpful, please cite:
 ```Bibtex
-@inproceedings{hifi_net_xiaoguo,
-  author = { Xiao Guo and Xiaohong Liu and Zhiyuan Ren and Steven Grosz and Iacopo Masi and Xiaoming Liu },
-  title = { Hierarchical Fine-Grained Image Forgery Detection and Localization },
-  booktitle = { CVPR },
-  year = { 2023 },
+@article{denseface,
+  title={Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction}, 
+  author={Xiao Guo and Manh Tran and Jiaxin Cheng and Xiaoming Liu},
+  journal={arXiv preprint arXiv:2412.18149},
+  year={2024}
 }
-``` -->
+```

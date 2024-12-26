@@ -1,5 +1,5 @@
 ## Dense-face
-This repo is the implementation of "Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction". [ArXiv](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing) and [project page](https://chelsea234.github.io/Dense-Face.github.io/).
+This repo is the implementation of "Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction". [ArXiv](https://arxiv.org/abs/2412.18149) and [project page](https://chelsea234.github.io/Dense-Face.github.io/).
 
 ![Teaser](./teaser/figure1.png)
 
@@ -76,16 +76,16 @@ The quick view on the code structure:
     │      └── ...
     ├── dataset_usage
     │      └── readCelebAFacesDataset.ipynb (Instruction on how to use dataset)
-    └── test_samples (we offer 25 test samples)
+    └── test_samples (we offer 25 celebrity test samples)
 ```
 
-<!-- ### Reference
+### Reference
 If you think our work is helpful, please cite:
 ```Bibtex
-@inproceedings{hifi_net_xiaoguo,
-  author = { Xiao Guo and Xiaohong Liu and Zhiyuan Ren and Steven Grosz and Iacopo Masi and Xiaoming Liu },
-  title = { Hierarchical Fine-Grained Image Forgery Detection and Localization },
-  booktitle = { CVPR },
-  year = { 2023 },
+@article{denseface,
+  title={Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction}, 
+  author={Xiao Guo and Manh Tran and Jiaxin Cheng and Xiaoming Liu},
+  journal={arXiv preprint arXiv:2412.18149},
+  year={2024}
 }
-``` -->
+```
