@@ -6,7 +6,7 @@ This repo is the implementation of "Dense-Face: Personalized Face Generation Mod
 ### Quick Demo
 - To create your environment by
   ```
-  conda env create -f Dense-Face.yml
+  conda env create -f Dense-Face.yaml
   ```
   or mannually install `pytorch=1.12.1` and `torchvision=0.13.1` in `python 3.8`.
 - Go to [link](https://drive.google.com/file/d/1D4PiEDvaTQt1fJykfQ5cZSMxrGZjcucF/view?usp=sharing) to download pre-trained weights, and then put them in `inference_code/ckpt`.
@@ -43,7 +43,7 @@ This repo is the implementation of "Dense-Face: Personalized Face Generation Mod
 #### step 2: Generate conditions (e.g., face region and head pose) for generation based on the Fig. 8. 
 - Using MediaPipe to obtain the face region, please refer to `./annotation_toolbox/dense_annotation_demo.ipynb` [shortcut](./annotation_toolbox/dense_annotation_demo.ipynb) (This script also helps scale the idea of dense-annotation to other face datasets).
 - Pose condition will be solved by inference [code](./inference_code/inference.py#L202).
-- Please use the pre-trained ArcFace model to dump the subject identify feature.
+- Please use the pre-trained ArcFace model, i.e., [IR-SE50][https://github.com/TreB1eN/InsightFace_Pytorch/blob/master/README.md#2-pretrained-models--performance], to dump the subject identify feature.
 
 #### step 3: Dense-Face's face-generation mode.
 - Given the conditions generated from step 2, we modify results from step 1. For example, we save reference images and their arcface features in `inference_code/reference_id`; the source image and its face region are in `inference_code/cropped_face/` and `inference_code/mask/`, respectively. Then run: 
